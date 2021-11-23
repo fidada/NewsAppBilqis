@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NEWS APP</string>
+    <string name="text_menu_trending">Trending</string>
+    <string name="text_menu_story">Story</string>
+    <string name="text_menu_video">Video</string>
+    <string name="text_menu_recent">Recent</string>
+    <string name="text_menu_football">Football</string>
+    
+</resources>
